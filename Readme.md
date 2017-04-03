@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Елена Арутюнян](https://up.htmlacademy.ru/javascript/9/user/106442).
-* Наставник: `Неизвестно`.
+* Наставник: `-`.
 
 ---
 
